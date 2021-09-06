@@ -7,9 +7,13 @@ You will learn JSON, NoSQL databases, File handling.
 
 ### Features
 1.Add new items into inventory
+
 2.User can make purchase 
-3.Easy to update record 
+
+3.Easy to update record
+
 4.Generate Billing Amount
+
 5.Stores daily transactions records
 
 ### Who am I?
