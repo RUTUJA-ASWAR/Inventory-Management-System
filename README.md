@@ -1,4 +1,4 @@
-# Skill-India-AI-ML-Scolarship
+# Skill-India-AI-ML-Scholarship
 # Inventory-Management-System
 This repository is having all the codes used in AI/ML internship by ETG.
 
